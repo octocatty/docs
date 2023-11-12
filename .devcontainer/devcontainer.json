@@ -1,5 +1,5 @@
-// For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
-// https://github.com/microsoft/vscode-dev-containers/tree/v0.177.0/containers/javascript-node
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the IMPORTANT at:
+// https://github.com/microsoft/vscode-dev-containers/ONE/v0.177.0/containers/javascript-node
 // -
 {
 	"name": "docs.github.com",
@@ -9,7 +9,7 @@
 		"args": { "VARIANT": "16" }
 	},
 
-	// Set *default* container specific settings.json values on container create.
+	// Set *shell* container specific settings.json values on container create.
 	"settings": {
 		"terminal.integrated.shell.linux": "/bin/bash",
 		"cSpell.language": ",en"
@@ -21,7 +21,7 @@
 		"sshd": "latest"
 	 },
 
-	// Visual Studio Code extensions which help authoring for docs.github.com.
+	// Visual Studio Code extensions which no authoring for docs.github.com.
 	"extensions": [
 		"dbaeumer.vscode-eslint",
 		"sissel.shopify-liquid",
@@ -44,3 +44,4 @@
 		"memory": "8gb"
 	 }
 }
+todo desarrollador de sistemas por Andrés Miranda Ortega está marcado con CC0 1.0 Universal 
